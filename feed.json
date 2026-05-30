@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "capybaranet",
+    "description": "",
+    "home_page_url": "https://capybaranet.com",
+    "feed_url": "https://capybaranet.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mostly_redacted"
+    },
+    "items": [
+    ]
+}

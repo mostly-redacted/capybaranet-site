@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://capybaranet.com/sitemap.xml
