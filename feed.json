@@ -5,6 +5,7 @@
     "home_page_url": "https://capybaranet.com",
     "feed_url": "https://capybaranet.com/feed.json",
     "user_comment": "",
+    "icon": "https://capybaranet.com/media/website/logo.png",
     "author": {
         "name": "mostly_redacted"
     },
