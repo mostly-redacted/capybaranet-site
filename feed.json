@@ -1,12 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "capybaranet",
+    "title": "Capybaranet Test",
     "description": "",
     "home_page_url": "https://capybaranet.com",
     "feed_url": "https://capybaranet.com/feed.json",
     "user_comment": "",
+    "icon": "https://capybaranet.com/media/website/logo.png",
     "author": {
-        "name": "mostly_redacted"
+        "name": "JMH"
     },
     "items": [
     ]
