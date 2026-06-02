@@ -6,7 +6,11 @@
 </url>
 <url>
 <loc>https://capybaranet.com/about/</loc>
-<lastmod>2026-06-01T19:19:20-04:00</lastmod>
+<lastmod>2026-06-02T14:01:27-04:00</lastmod>
+<image:image>
+<image:loc>https://capybaranet.com/media/posts/3/Information_icon.svg.png</image:loc>
+<image:title><![CDATA[About Infoirmation Image]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://capybaranet.com/academic/</loc>
@@ -18,7 +22,11 @@
 </url>
 <url>
 <loc>https://capybaranet.com/badbox-botnet/</loc>
-<lastmod>2026-06-01T19:47:29-04:00</lastmod>
+<lastmod>2026-06-02T14:01:11-04:00</lastmod>
+<image:image>
+<image:loc>https://capybaranet.com/media/posts/13/500px-A_black_box.svg.png</image:loc>
+<image:title><![CDATA[Black Box]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://capybaranet.com/deepfake/</loc>
