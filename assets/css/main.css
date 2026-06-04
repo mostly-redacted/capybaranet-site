@@ -175,7 +175,7 @@ nav.toc {
 }
 
 .page-hero h1 {
-  font-size: clamp(32px, 5vw, 52px);
+  font-size: clamp(48px, 6vw, 72px);
   font-weight: 500;
   line-height: 1.2;
   margin-bottom: 1rem;
@@ -195,6 +195,13 @@ nav.toc {
   object-fit: contain;
   display: block;
   margin: 0 0 1rem 0;
+}
+
+.page-hero-title {
+  font-size: clamp(36px, 5vw, 60px);
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 1rem;
 }
 
 .toc a {
